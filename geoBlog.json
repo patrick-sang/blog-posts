@@ -1,0 +1,15 @@
+{
+	"post": [
+		{
+			"thumbnail": "https://picsum.photos/400/200?random=1",
+			"category": "Category",
+			"title": "Title",
+			"excerpt": "Excerpt",
+			"author": "Author",
+			"date": "Date"
+		},
+		{
+			"thumbnail": "https://picsum.photos/400/200?random=1"
+		}
+	]
+}
