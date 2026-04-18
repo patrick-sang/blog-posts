@@ -14,7 +14,8 @@
 			"excerpt": "Ggf"
 		},
 		{
-			"thumbnail": "https://picsum.photos/400/200?random=1"
+			"thumbnail": "https://picsum.photos/400/200?random=1",
+			"category": "E"
 		}
 	]
 }
