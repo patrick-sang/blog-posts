@@ -1,7 +1,7 @@
 {
 	"post": [
 		{
-			"thumbnail": "https://picsum.photos/400/200?random=1",
+			"thumbnail": "https://cdn.jsdelivr.net/gh/patrick-sang/blog-posts@95c275961a872dd473469878636cbf122b88201e/images/1000036259.jpg",
 			"category": "Category",
 			"title": "Title",
 			"author": "Author",
