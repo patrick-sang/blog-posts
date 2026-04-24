@@ -2,7 +2,8 @@
 	"post": [
 		{
 			"thumbnail": "https://picsum.photos/400/200?random=1",
-			"category": "Data Engineering"
+			"category": "Data Engineering",
+			"title": "The Hidden Data Engine Behind Every Great Real Estate Map – What Brokers, Developers, and Investors Need to Know"
 		}
 	]
 }
