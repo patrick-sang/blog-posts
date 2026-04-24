@@ -1,7 +1,7 @@
 {
 	"post": [
 		{
-			"thumbnail": "https://picsum.photos/400/200?random=1",
+			"thumbnail": "https://cdn.jsdelivr.net/gh/patrick-sang/blog-posts@5c2f91726461bdbb2e55fff546079053a4be2580/images/background.png",
 			"category": "Data Engineering",
 			"title": "The Hidden Data Engine Behind Every Great Real Estate Map – What Brokers, Developers, and Investors Need to Know",
 			"author": "patrick sang",
