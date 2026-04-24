@@ -11,7 +11,8 @@
 		{
 			"thumbnail": "https://picsum.photos/800/400?random=1",
 			"category": "Data Engineering",
-			"title": " Building a Production‑Grade Real Estate Parcel Pipeline: Architecture, Pitfalls, and Code Examples"
+			"title": " Building a Production‑Grade Real Estate Parcel Pipeline: Architecture, Pitfalls, and Code Examples",
+			"author": "patrick sang"
 		}
 	]
 }
